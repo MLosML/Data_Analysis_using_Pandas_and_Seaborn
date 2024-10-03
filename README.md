@@ -1,4 +1,4 @@
-# Data_Analysis_using_Pandas_and_Seaborn
+# Data_Analysis_with_Pandas_and_Seaborn
 This case study explores the benefits and drawbacks of offering product discounts by addressing key business questions.
 
 ## Summary
