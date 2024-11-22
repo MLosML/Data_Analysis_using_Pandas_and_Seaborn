@@ -13,7 +13,7 @@ The main investors on the Board are concerned about aggressive discounting.
 - Recent quarterly results showed an increase in orders but a decrease in total revenue.
 - They prefer the company to position itself in the quality segment rather than competing on price.
 
-##Business questions
+**Business questions**
 
 How should products be classified into different categories to simplify reports and analysis?
 What is the distribution of product prices across different categories?
